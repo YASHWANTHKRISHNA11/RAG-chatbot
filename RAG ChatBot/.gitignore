@@ -10,6 +10,9 @@ data/
 
 
 
+temp_uploads/
+requirements.txt.bak
+
 # allow our document
 !data/
 !data/notes.pdf
